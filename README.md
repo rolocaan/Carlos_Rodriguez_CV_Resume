@@ -3,7 +3,7 @@
 
 ## Motivation
 *Five years of experience in automotive industry under different product development stages, engine calibration, powertrain controls, and software in the loop testing.
-My motivation is create a better future with responsibility usage of technology improving mobility for a better life. During the college I spent four hours in public transportation daily my motivation comes from there .*
+My motivation is create a better future with responsibility usage of technology improving mobility for a better life. During the college I spent four hours in public transportation daily my motivation comes from there.*
 
 ## More about me
 
