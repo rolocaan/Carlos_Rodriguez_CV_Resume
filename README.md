@@ -7,39 +7,7 @@ My motivation is create a better future with responsibility usage of technology 
 
 ##### More about me
 
-*Abroad experience in University of California Riverside at Mechanical Engineering Department. High level of responsibility, adaptation, integration, collaborative work and strong leadership and relationship-building skills.*
-
-
-
----
-output: 
-  pdf_document:
-    latex_engine: pdflatex
-    template: ../svm-latex-cv.tex
-geometry: margin=1in
-
-title: "CV"
-author: William Sealy Gosset
-
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-# twitter: stevenvmiller
-#osf: "Enter 5 digit osf string here"
-phone: "+353 1 408 4800"
-web: guinness.com
-updated: no
-
-keywords: R Markdown, academic CV, template
-
-fontfamily: mathpazo
-fontfamilyoptions: sc, osf
-fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
----
+*Abroad experience in University of California Riverside at Mechanical Engineering Department. High level of responsibility, adaptation, integration, collaborative work and strong leadership and relationship-building skills.
 
 # Employment
 
