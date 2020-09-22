@@ -28,7 +28,7 @@ Exosqueleton design  2014
 
 # Education
 
-*U.N.A.M *, B.A. Mechatronics Engineer 2010-2014
+*U.N.A.M*, B.A. Mechatronics Engineer 2010-2014
 
 
 # Publications
