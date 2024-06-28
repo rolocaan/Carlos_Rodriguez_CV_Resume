@@ -4,6 +4,18 @@
 [rolocaan@gmail.com]
 
 ---
+## Motivation
+
+As a seasoned DevOps Engineer with nine years of extensive experience in the automotive industry, my career has been driven by a deep-seated passion for innovation and efficiency. Throughout my journey, I have honed my skills in automating processes, optimizing CI/CD pipelines, and managing complex cloud infrastructures, all aimed at accelerating development cycles and enhancing product quality.
+
+My tenure in the automotive sector has instilled in me a profound understanding of the industry's unique challenges and opportunities. I have consistently demonstrated my ability to deliver robust solutions that not only meet but exceed the stringent requirements of this high-stakes environment. My technical proficiency spans a wide array of tools and technologies, including Powershell, Git, Jenkins, GitHub actions and GCP, which I have adeptly utilized to streamline operations and drive significant cost savings.
+
+Collaboration and continuous improvement are at the core of my professional ethos. I thrive in dynamic, cross-functional teams where I can leverage my expertise to foster a culture of agility and resilience. By implementing automated testing frameworks and monitoring systems, I have significantly reduced deployment times and minimized system downtimes, ensuring that production environments remain stable and reliable.
+
+I am motivated by the relentless pursuit of excellence and the desire to push the boundaries of what is possible through technology. My goal is to contribute to innovative projects that not only solve current challenges but also pave the way for future advancements. I am eager to bring my experience, skills, and enthusiasm to a forward-thinking organization where I can continue to make a meaningful impact.
+
+With a commitment to continuous learning and a proactive approach to problem-solving, I am confident in my ability to drive transformational changes and deliver exceptional results. My journey as a DevOps Engineer has been one of growth, learning, and unwavering dedication, and I am excited about the opportunities that lie ahead.
+---
 
 ## Professional Summary
 
