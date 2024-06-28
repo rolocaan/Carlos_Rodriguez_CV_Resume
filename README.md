@@ -1,7 +1,7 @@
 # Carlos Andres Rodriguez Lopez - DevOps Engineer
 
 ## Contact 
-[Laguna Luna 18 A] | [C.Izcalli, Mexico, 54740] | [rolocaan@gmail.com] | [+5215530329621] 
+[rolocaan@gmail.com]
 
 ---
 
